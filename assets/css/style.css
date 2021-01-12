@@ -7,6 +7,9 @@ body {
   font-family: "Cedarville Cursive", cursive;
 }
 
-.container-fluid {
+.container-fluid,
+.label-form,
+.button-form,
+.title-form {
   font-family: "Cedarville Cursive", cursive;
 }
