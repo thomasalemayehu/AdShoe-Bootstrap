@@ -1,3 +1,12 @@
-.navbar {
+body {
+  overflow-x: hidden;
+}
+
+.navbar-brand,
+.nav-link {
+  font-family: "Cedarville Cursive", cursive;
+}
+
+.container-fluid {
   font-family: "Cedarville Cursive", cursive;
 }
