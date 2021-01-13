@@ -2,14 +2,17 @@ body {
   overflow-x: hidden;
 }
 
-.navbar-brand,
-.nav-link {
+.navbar-brand {
   font-family: "Cedarville Cursive", cursive;
+  font-size: 25px;
 }
-
+.nav-link {
+  font-family: "Playfair Display", serif;
+}
 .container-fluid,
 .label-form,
 .button-form,
 .title-form {
-  font-family: "Cedarville Cursive", cursive;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.5px;
 }
