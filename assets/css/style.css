@@ -16,3 +16,37 @@ body {
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.5px;
 }
+.form {
+  background-color: gray;
+}
+/* .col-6,
+.col-3,
+.col-4,
+.col-5,
+.col-3,
+.col-2,
+.col-1,
+.col-7 {
+  border: 1px solid black;
+} */
+/* .col-md-3 {
+  border: 1px solid springgreen;
+} */
+/* .about-image {
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+} */
+/* .borderme {
+  border: 2px solid black;
+} */
+
+.img-fluid {
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+}
